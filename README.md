@@ -1,6 +1,6 @@
-# Cessna Citation X
+# Flightgear Phi web interface mod
 ---
-A highly advanced simulation of the Cessna Citation X for the FlightGear flight simulator.
+A simple mod for the flightgear web interface, adding some mod for tha map (see description below).  
 ---
 Creators:
 * F-URAX - creator
