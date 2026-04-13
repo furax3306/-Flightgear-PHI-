@@ -1,6 +1,6 @@
 # Flightgear Phi web interface mod
 ---
-A simple mod for the flightgear web interface, adding some mod for tha map (see description below).  
+A simple mod for the flightgear web interface, adding some basics extra features for the map (see description below).  
 ---
 Creators:
 * F-URAX - creator
