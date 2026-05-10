@@ -41,6 +41,28 @@ PS : Do no copy the "img" folder into your filesystem, it's not dangerous but us
 
 
 
+Layer menu with openstreetmap
+
+![Menu visible et carte openstreetmap](https://github.com/furax3306/-Flightgear-PHI-/blob/main/img/menu_2.png?raw=true)
+
+
+
+Opentopomap layer
+
+![Carte opentopomap](https://github.com/furax3306/-Flightgear-PHI-/blob/main/img/opentopomap.png?raw=true)
+
+
+
+Menu and openseamap overlay
+
+![Menu avec layer openseamap](https://github.com/furax3306/-Flightgear-PHI-/blob/main/img/menu_with_openseamap_active.png?raw=true)
+
+
+
+Icon plane changed to red to avoid confusion with opentopomap colors
+
+![Icone avion en rouge](https://github.com/furax3306/-Flightgear-PHI-/blob/main/img/plane_icon-red.png?raw=true)
+
 
 
   
