@@ -40,6 +40,9 @@ Simply backup yours originals files and replaces them with the modified files pr
 PS : Do no copy the "img" folder into your filesystem, it's not dangerous but useless, anway you can kepp picture, it's free ;)
 
 
+
+
+
   
 
 
