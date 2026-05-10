@@ -30,6 +30,16 @@ Modifications :
 <ins>**How to install :**</ins>
 
 Simply backup yours originals files and replaces them with the modified files provided by this mod
+
+
+**What this mod is changing ?**
+
+
+<ins>Short answer is often the best, see picture below.</ins>
+
+PS : Do no copy the "img" folder into your filesystem, it's not dangerous but useless, anway you can kepp picture, it's free ;)
+
+
   
 
 
