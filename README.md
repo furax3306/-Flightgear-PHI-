@@ -23,7 +23,11 @@ Modifications :
 
 - Add Openseamap overlay for fun and even (especially) for Carrier controled by player (and even seaplane).
 	This allow navigation in compliance with marine traffic rules.
-  
+
+
+<ins>**How to install :**</ins>
+
+Simply backup yours originals files and replaces them with the modified files provided by this mod
   
 
 
