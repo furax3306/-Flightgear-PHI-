@@ -41,7 +41,8 @@ PS : Do no copy the "img" folder into your filesystem, it's not dangerous but us
 
 
 
-Layer menu with openstreetmap
+
+Openstreetmap layer
 
 ![Menu visible et carte openstreetmap](https://github.com/furax3306/-Flightgear-PHI-/blob/main/img/openstreetmap.png?raw=true)
 
