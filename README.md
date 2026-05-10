@@ -24,6 +24,8 @@ Modifications :
 - Add Openseamap overlay for fun and even (especially) for Carrier controled by player (and even seaplane).
 	This allow navigation in compliance with marine traffic rules.
 
+- Plane icon color changed to red to avoid relief confusion with ground (especialy with opentopomap)
+
 
 <ins>**How to install :**</ins>
 
